@@ -1,0 +1,16 @@
+{
+  "name": "adapt-metsan-mcq",
+  "version": "1.0.0",
+  "framework": ">=4",
+  "homepage": "",
+  "issues": "",
+  "displayName" : "METSAN MCQ",
+  "component" : "mcq",
+  "description": "A multiple choice question component",
+  "main": "/js/adapt-metsan-mcq.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3"
+}
